@@ -1,0 +1,6 @@
+Age,NIHSS,Systolic Pressure,Diastolic Pressure,Diabetes,Hyperlipaemia,D-dimer,label,ID_normalized,image_filename,relative_image_path
+53,2,156,86,0,0,0.74,1,10322931.1,0010322931.1.png,images/0010322931.1.png
+74,10,173,99,0,1,0.33,1,26843852.1,0026843852.1.png,images/0026843852.1.png
+66,1,122,70,0,1,0.2,1,27716595.1,0027716595.1.png,images/0027716595.1.png
+54,2,130,80,0,1,0.01,1,27917402.1,0027917402.1.png,images/0027917402.1.png
+70,16,155,83,1,1,5.24,1,28343528.1,0028343528.1.png,images/0028343528.1.png
